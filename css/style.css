@@ -1,0 +1,75 @@
+.wrapper {
+  margin: 3rem auto;
+  width: 22rem;
+  height: 32rem;
+  border-radius: 1rem;
+  background: #87cefa;
+
+  font-family: Arial;
+  padding: 1rem;
+  box-shadow: 0.25rem 0.25rem 0.25rem #4f4f4f;
+}
+
+.wrapper p {
+  margin: 0.5rem 0 0 0;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  color: #fff;
+  margin: 3rem 0 0 2rem;
+}
+
+.content input {
+  width: 17rem;
+  height: 2.5rem;
+  opacity: 0.5;
+  margin: 1.5rem 0 0 2rem;
+  border-radius: 0.25rem;
+}
+
+.content input [type="text"] {
+  width: 15rem;
+  height: 2.5rem;
+  opacity: 0.5;
+  margin: 3rem 0 0 1rem;
+  border-radius: 0.25rem;
+}
+
+.content button {
+  width: 17.5rem;
+  height: 2.5rem;
+  font-size: 1.25rem;
+  color: #00008b;
+  opacity: 0.5;
+  margin: 1rem 0 1.5rem 2rem;
+  border-radius: 0.25rem;
+}
+
+.result h2 {
+  padding: 0.5rem 0;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+.result p {
+  margin: 20px 50px;
+  margin-right: 20px;
+  text-align: left;
+  color: #04214c;
+  font-size: 23px;
+}
+
+.result h2 span{
+  font-size: 2rem;
+  color: #020249;
+}
+.result p span{
+  color: #900500;
+  font-size: 25px;
+}
