@@ -1,0 +1,86 @@
+.wrapper {
+  margin: 3rem auto;
+  width: 22rem;
+  height: 32rem;
+  border-radius: 1rem;
+  background-image: url(/img/sky.png);
+
+  font-family: Arial;
+  text-transform: uppercase;
+  padding: 1rem;
+  box-shadow: 0.25rem 0.25rem 0.25rem #4f4f4f;
+}
+.img {
+  opacity: 0.5;
+}
+.wrapper p {
+  margin: 0.5rem 0 0 0;
+  font-size: 2rem;
+  color: #04368c;
+  text-align: center;
+  text-shadow: #fdfdfd 1px 0 10px;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  color: #fff;
+  margin: 3rem 0 0 2rem;
+}
+
+.content input {
+  width: 17rem;
+  height: 2.5rem;
+  opacity: 0.5;
+  margin: 1.5rem 0 0 2rem;
+  border-radius: 0.25rem;
+}
+
+.content input [type="text"] {
+  width: 15rem;
+  height: 2.5rem;
+  opacity: 0.5;
+  margin: 3rem 0 0 1rem;
+  border-radius: 0.25rem;
+}
+
+.content button {
+  width: 17.5rem;
+  height: 2.5rem;
+  font-size: 1rem;
+  color: #011c4b;
+  opacity: 0.5;
+  margin: 1rem 0 1.5rem 2rem;
+  border-radius: 0.25rem;
+  text-shadow: #fdfdfd 1px 0 10px;
+  text-transform: uppercase;
+}
+
+.result h2 {
+  padding: 0.5rem 0;
+  text-align: center;
+  color: #04368c;
+  font-family: sans-serif;
+  font-size: 1.25rem;
+  text-shadow: #fdfdfd 1px 0 10px;
+}
+
+.result p {
+  margin: 20px 50px;
+  margin-right: 20px;
+  text-align: left;
+  color: #04368c;
+  font-size: 1.25rem;
+  text-shadow: #fdfdfd 1px 0 10px;
+}
+
+.result h2 span {
+  font-size: 2rem;
+  color: #04368c;
+  text-shadow: #fdfdfd 1px 0 10px;
+}
+.result p span {
+  color: #000000;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
